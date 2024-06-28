@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&&center=true&vCenter=true&&lines=Python+Backend+Developer)](https://git.io/typing-svg)
 
-### 📝 » Python backend developer with 1,5+ years experience in developing REST API architecture for web projects, ERP and CRM systems, analitics, statistic calcilation.
+### 📝 » Python backend developer with 1,5+ years experience in developing REST API architecture for web projects, ERP and CRM systems, analytics, statistic calculation.
 ***
 
 ## ⚙️ » **My skills**
