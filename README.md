@@ -5,7 +5,7 @@
 ### 📝 » Python backend developer with 1,5+ years experience in developing REST API architecture for web projects, ERP and CRM systems, analitics, statistic calcilation.
 ***
 
-##  » **My skills**
+## ⚙️ » **My skills**
 🖌 Languages:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
