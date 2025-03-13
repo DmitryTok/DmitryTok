@@ -1,7 +1,7 @@
 ## 👋 » Hi everyone
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Python+Backend+Developer;Django%2C+DRF%2C+FastAPI%2C+Flask)](https://git.io/typing-svg)
-### 📝 » Python backend developer with 1,5+ years experience in developing REST API architecture for web projects, ERP and CRM systems, analytics, statistic calculation.
+### 📝 » Python backend developer with 3+ years experience in developing REST API architecture for web projects, ERP and CRM systems, analytics, statistic calculation.
 ***
 
 ## ⚙️ » **My skills**
