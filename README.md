@@ -114,17 +114,6 @@ I specialize in designing reliable backend architectures, building REST APIs, op
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DmitryTok&theme=github-dark&hide_border=true"/>
 
 </div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DmitryTok&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
 ---
 
 # 💻 Backend Expertise
