@@ -111,9 +111,7 @@ I specialize in designing reliable backend architectures, building REST APIs, op
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DmitryTok&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DmitryTok&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="./github-metrics.svg"/>
 
 </div>
 
